@@ -1,3 +1,5 @@
 # apnacollege-demo
-This is my first Git Repository<br>
-Author -Antriksh Katna
+
+This is my first Git Repository
+<br>
+Author -Antriksh (Katna)
